@@ -1,4 +1,4 @@
-Testing the jenkins pipeline_1
+Testing the jenkins RemoteJob_Pipeline
 
 Addressbook Tutorial
 ====================
